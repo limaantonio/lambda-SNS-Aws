@@ -1,5 +1,7 @@
 <h1> Tutorial SNS + Lambda </h1>
-![AWS_Lambda_SNS drawio](https://user-images.githubusercontent.com/40245102/215132539-f1213e08-61a4-4b3f-aa2a-ef99dac2c2d4.png)
+
+![AWS_Lambda_SNS drawio](https://user-images.githubusercontent.com/40245102/215133764-ed6dbba1-de85-47a9-920f-8170e8736e14.png)
+![AWS_Lambda_SNS drawio](https://user-images.githubusercontent.com/40245102/215133764-ed6dbba1-de85-47a9-920f-8170e8736e14.png)
 
 ### 1 - SNS:
 
